@@ -36,4 +36,6 @@ Agora basta navegar até a pasta que contenha os projetos Flutter e executar o c
 clean-flutter-all
 ```
 
-Qualquer dúvida, entre em contato pelo Linkedin que estarei apto a auxiliá-lo.
+##
+
+Qualquer dúvida, entre em contato pelo Linkedin que estarei disposto a auxiliá-lo.
