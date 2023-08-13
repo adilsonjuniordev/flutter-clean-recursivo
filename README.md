@@ -5,6 +5,7 @@ Script para executar a limpeza de todos os projetos Flutter em um diretório de 
 ## Como utilizar
 
 Para executar o script, salve com um nome de preferência (ex: clean-projects.sh).
+
 Depois navegue até o diretório do arquivo e execute um dos comandos abaixo:
 
 ```bash
