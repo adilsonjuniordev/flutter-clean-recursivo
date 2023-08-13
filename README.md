@@ -20,7 +20,7 @@ Depois navegue até o diretório do arquivo e execute um dos comandos abaixo:
 sudo sh clean-projects.sh
 ```
 
-## Dica Complementar:
+## Dica complementar:
 Você poderá adicionar um alias no seu terminal, gerando um comando de atalho para executar o seu script.
 
 Acesse o comando abaixo no seu arquivo padrão de definição de variáveis de ambiente (Este arquivo pode variar de acordo com o terminal que você utiliza).
@@ -28,3 +28,12 @@ Acesse o comando abaixo no seu arquivo padrão de definição de variáveis de a
 ```bash
 alias clean-flutter-all='sh ~/CAMINHO-DO-SEU-ARQUIVO.sh/'
 ```
+_Lembre-se de reiniciar o terminal para que seu comando seja reconhecido._
+
+Agora basta navegar até a pasta que contenha os projetos Flutter e executar o comando:
+
+```bash
+clean-flutter-all
+```
+
+Qualquer dúvida, entre em contato pelo Linkedin que estarei apto a auxiliá-lo.
