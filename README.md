@@ -15,7 +15,6 @@ Depois navegue até o diretório do arquivo e execute um dos comandos abaixo:
 ```bash
   sh ./clean-projects.sh
 ```
-## ou
 ```bash
 sudo sh clean-projects.sh
 ```
