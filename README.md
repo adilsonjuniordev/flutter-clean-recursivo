@@ -13,7 +13,7 @@ Para executar o script, salve com um nome de preferência (ex: clean-projects.sh
 Depois navegue até o diretório do arquivo e execute um dos comandos abaixo:
 
 ```bash
-  sh ./clean-projects.sh
+sh ./clean-projects.sh
 ```
 
 ```bash
