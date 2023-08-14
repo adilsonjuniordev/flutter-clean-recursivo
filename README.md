@@ -23,7 +23,7 @@ sudo sh clean-projects.sh
 ## Dica complementar:
 Você poderá adicionar um alias no seu terminal, gerando um comando de atalho para executar o seu script.
 
-Acesse o comando abaixo no seu arquivo padrão de definição de variáveis de ambiente (Este arquivo pode variar de acordo com o terminal que você utiliza).
+Acesse o seu arquivo padrão de definição de variáveis de ambiente e cole o código abaixo (Este arquivo pode variar de acordo com o terminal que você utiliza).
 
 ```bash
 alias clean-flutter-all='sh ~/CAMINHO-DO-SEU-ARQUIVO.sh/'
