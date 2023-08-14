@@ -21,7 +21,7 @@ sudo sh clean-projects.sh
 ```
 
 ## Dica complementar:
-Você poderá adicionar um alias no seu terminal, gerando um comando de atalho para executar o seu script.
+Você poderá adicionar um alias no seu terminal, gerando um comando de atalho para executar o seu script de qualquer local do ambiente. 
 
 Acesse o seu arquivo padrão de definição de variáveis de ambiente e cole o código abaixo (Este arquivo pode variar de acordo com o terminal que você utiliza).
 
